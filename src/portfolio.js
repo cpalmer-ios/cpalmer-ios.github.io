@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://cpalmer-ios.github.io/cleanfolio',
+  homepage: 'https://cpalmer-ios.github.io/folio',
   title: 'Built in React JS.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack Software Engineer',
   description:
     'I love making websites, games and apps. With over 6 years of experience, I\'ve enjoyed the opportunity to work for some great teams in many great companies. I also love running, reading, pizza and music.',
-  resume: 'https://example.com',
+  resume: './ChrisPalmerResume.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/mrcpalmer',
     github: 'https://github.com/cpalmer-ios',
