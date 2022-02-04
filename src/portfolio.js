@@ -25,23 +25,23 @@ const projects = [
     name: 'Project 1',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React', 'Node', 'GraphQL'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     name: 'Project 2',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'A mobile zombie hunter game built with the React Native Game Engine module',
+    stack: ['React Native', 'Expo'],
+    sourceCode: 'https://github.com/rn-zombie-hunter',
     livePreview: 'https://github.com',
   },
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'An 8-bit game built purely in JavaScript',
+    stack: ['JavaScript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
