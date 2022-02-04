@@ -2,11 +2,12 @@ import './Footer.css'
 
 const Footer = () => (
   <footer className='footer'>
+    View full GitHub 
     <a
-      href='https://github.com/rajshekhar26/cleanfolio'
+      href='https://github.com/cpalmer-ios'
       className='link footer__link'
     >
-      Created By Raj Shekhar
+    here
     </a>
   </footer>
 )
