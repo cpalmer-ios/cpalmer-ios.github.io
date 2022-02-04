@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://cpalmer-ios.github.io/cleanfolio',
+  title: 'Built in React JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Chris Palmer',
+  role: 'Full-Stack Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I love making websites, games and apps. With over 6 years of experience, I\'ve enjoyed the opportunity to work for some great teams in many great companies. I also love running, reading, pizza and music.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://linkedin.com/in/mrcpalmer',
+    github: 'https://github.com/cpalmer-ios',
   },
 }
 
@@ -65,7 +65,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'write.to.chris.palmer@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
