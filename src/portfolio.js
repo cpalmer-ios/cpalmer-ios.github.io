@@ -1,11 +1,12 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://cpalmer-ios.github.io/folio',
-  title: 'Built in React JS.',
+  homepage: 'https://cpalmer-ios.github.io',
+  title: 'Built in React JS.', 
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
+  image: './profile-pic.png',
   name: 'Chris Palmer',
   role: 'Full-Stack Software Engineer',
   description:

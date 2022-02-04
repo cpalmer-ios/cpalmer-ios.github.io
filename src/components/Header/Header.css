@@ -11,3 +11,7 @@
     height: 6em;
   }
 }
+
+.image {
+ border-radius: 50%;
+}
