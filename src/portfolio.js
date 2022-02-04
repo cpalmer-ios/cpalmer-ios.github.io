@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Project 1',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A remake of reddit built on Apollo, Graph QL. Node and React',
     stack: ['React', 'Node', 'GraphQL'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -80,9 +80,38 @@ const skills = [
   'Enzyme',
 ]
 
+const experience = [
+  // projects can be added an removed
+  // if there are no projects, Projects section won't show up
+  {
+    name: 'NTT DATA',
+    img: './img/NTTDATA-logo.png',
+    description:
+      'Through my current employer I was able to work at Sky for a year as a Full-Stack Senior Software Engineer, delivering a successful launch of the Sky Glass TV. The main work involed improving the site performance, security and monitoring.',
+    stack: ['React', 'Node', 'GraphQL'],
+    livePreview: 'https://sky.com',
+  },
+  {
+    name: 'Fin-ex',
+    img: './img/NTTDATA-logo.png',
+    description:
+      'Whilst working at Fin-ex for 2 years I was able to build a Hotel Booking Application. I was promoted twice from Software Engineer to Senior to Tech Lead where I was able to make architectural decisions, train staff and introduce new deployment strategies and coding standardisation.',
+    stack: ['React', 'React Native', 'Node', 'Graph QL', 'Mongo DB'],
+    livePreview: 'https://fin-ex.com',
+  },
+  {
+    name: 'Project 3',
+    img: './img/NTTDATA-logo.png',
+    description:
+      'An 8-bit game built purely in JavaScript',
+    stack: ['JavaScript'], 
+    livePreview: 'https://github.com',
+  },
+]
+
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'write.to.chris.palmer@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, experience, contact }
