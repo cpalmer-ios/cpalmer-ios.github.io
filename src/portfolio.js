@@ -84,26 +84,26 @@ const experience = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'NTT DATA',
-    img: './img/NTTDATA-logo.png',
+    name: 'sky',
+    img: './img/sky-logo.png',
     description:
       'Through my current employer I was able to work at Sky for a year as a Full-Stack Senior Software Engineer, delivering a successful launch of the Sky Glass TV. The main work involed improving the site performance, security and monitoring.',
     stack: ['React', 'Node', 'GraphQL'],
     livePreview: 'https://sky.com',
   },
   {
-    name: 'Fin-ex',
-    img: './img/NTTDATA-logo.png',
+    name: 'nttdata',
+    img: './img/NTTDATA.png',
     description:
-      'Whilst working at Fin-ex for 2 years I was able to build a Hotel Booking Application. I was promoted twice from Software Engineer to Senior to Tech Lead where I was able to make architectural decisions, train staff and introduce new deployment strategies and coding standardisation.',
+      '',
     stack: ['React', 'React Native', 'Node', 'Graph QL', 'Mongo DB'],
     livePreview: 'https://fin-ex.com',
   },
   {
-    name: 'Project 3',
-    img: './img/NTTDATA-logo.png',
+    name: 'prh',
+    img: './img/prh.png',
     description:
-      'An 8-bit game built purely in JavaScript',
+      '',
     stack: ['JavaScript'], 
     livePreview: 'https://github.com',
   },

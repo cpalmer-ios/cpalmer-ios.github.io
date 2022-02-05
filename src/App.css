@@ -81,6 +81,18 @@ main {
   color: var(--clr-fg);
 }
 
+img.link.link--icon {
+  width: 37%;
+  display: flex;
+  position: relative;
+  margin: auto;
+  padding-bottom: 25px;
+}
+
+img.link.link--icon.prh {
+  width: 16%;
+}
+
 .btn {
   display: block;
   cursor: pointer;

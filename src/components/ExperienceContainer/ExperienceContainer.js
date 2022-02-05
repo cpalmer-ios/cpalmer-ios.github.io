@@ -9,10 +9,10 @@ const ExperienceContainer = ({ experience }) => (
       <img
         src={experience.img}
         alt='NTT DATA - Global Innovators'
-        className='link link--icon'
+        className={`link link--icon ${experience.name}`}
       />
     )}
-    <h3>{experience.name}</h3>
+    {/* <h3>{experience.name}</h3> */}
 
     <p className='experience__description'>{experience.description}</p>
     {experience.stack && (
