@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Project 1',
     description:
-      'A remake of reddit built on Apollo, Graph QL. Node and React',
+      'A remake of Reddit built with Apollo, Graph QL, Node, React and Redis.',
     stack: ['React', 'Node', 'GraphQL'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'Project 2',
     description:
-      'A mobile zombie hunter game built with the React Native Game Engine module',
+      'A mobile game built using Expo and the React Native Game Engine module.',
     stack: ['React Native', 'Expo'],
     sourceCode: 'https://github.com/rn-zombie-hunter',
     livePreview: 'https://github.com',
@@ -40,9 +40,9 @@ const projects = [
   {
     name: 'Project 3',
     description:
-      'An 8-bit game built purely in JavaScript',
+      'A retro pixel animation game built purely in JavaScript !',
     stack: ['JavaScript'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/cpalmer-ios/sprite-javascript',
     livePreview: 'https://github.com',
   },
 ]
@@ -56,8 +56,12 @@ const skills = [
   'TypeScript',
   'Node',
   'React',
+  'Next',
   'React Native',
   'Redux',
+  'Express',
+  'Apollo',
+  'Redis',
   'Mongo DB',
   'SQL',
   'C',
@@ -81,13 +85,13 @@ const skills = [
 ]
 
 const experience = [
-  // projects can be added an removed
+  // projects can be added and removed
   // if there are no projects, Projects section won't show up
   {
     name: 'sky',
-    img: './img/sky-logo.png',
+    img: './img/sky.png',
     description:
-      'Through my current employer I was able to work at Sky for a year as a Full-Stack Senior Software Engineer, delivering a successful launch of the Sky Glass TV. The main work involed improving the site performance, security and monitoring.',
+      'Delivering a successful launch of the Sky Glass TV sales channel on the main sky.com site. The work also involved working with a team to improve the site performance, security and monitoring.',
     stack: ['React', 'Node', 'GraphQL'],
     livePreview: 'https://sky.com',
   },
@@ -95,16 +99,16 @@ const experience = [
     name: 'nttdata',
     img: './img/NTTDATA.png',
     description:
-      '',
-    stack: ['React', 'React Native', 'Node', 'Graph QL', 'Mongo DB'],
-    livePreview: 'https://fin-ex.com',
+      'Building internal applications and working as a Software Engineer / Consultant for other clients which include BT, Vodafone & Microsoft.',
+    stack: ['React', 'Node', 'Mongo DB'],
+    livePreview: 'https://nttdata.com',
   },
   {
     name: 'prh',
     img: './img/prh.png',
     description:
-      '',
-    stack: ['JavaScript'], 
+      'Building internal staff applications with the Twitter API and PRHs entire biblio database. All integrated on a secure internal network with key token login and multiple users online functoinality.',
+    stack: ['JavaScript', 'Node', 'Java'], 
     livePreview: 'https://github.com',
   },
 ]

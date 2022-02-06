@@ -82,15 +82,24 @@ main {
 }
 
 img.link.link--icon {
-  width: 37%;
-  display: flex;
+  display: block;
   position: relative;
   margin: auto;
   padding-bottom: 25px;
+  width: 100%;
 }
 
-img.link.link--icon.prh {
-  width: 16%;
+.sky {
+  width: 76% !important;
+}
+
+.nttdata {
+  padding-top: 39px !important;
+  padding-bottom: 50px !important;
+}
+
+.prh {
+  padding-bottom: 40px !important;
 }
 
 .btn {
