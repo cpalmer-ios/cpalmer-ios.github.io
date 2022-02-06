@@ -102,6 +102,14 @@ img.link.link--icon {
   padding-bottom: 40px !important;
 }
 
+.dark img.link.link--icon.nttdata {
+  filter: invert(1) hue-rotate(-175deg);
+}
+
+.dark img.link.link--icon.prh {
+  background: #fff;
+}
+
 .btn {
   display: block;
   cursor: pointer;
