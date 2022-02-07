@@ -26,7 +26,7 @@ const projects = [
     description:
       'A remake of Reddit built with Apollo, Graph QL, Node, React and Redis.',
     stack: ['React', 'Node', 'GraphQL'],
-    sourceCode: 'https://github.com/lireddit-web',
+    sourceCode: 'https://github.com/cpalmer-ios/lireddit-web',
     livePreview: 'https://github.com',
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description:
       'A mobile game built using Expo and the React Native Game Engine module.',
     stack: ['React Native', 'Expo'],
-    sourceCode: 'https://github.com/rn-zombie-hunter',
+    sourceCode: 'https://github.com/cpalmer-ios/rn-zombie-hunter',
     livePreview: 'https://github.com',
   },
   {
