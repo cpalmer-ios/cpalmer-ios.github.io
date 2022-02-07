@@ -26,7 +26,7 @@ const projects = [
     description:
       'A remake of Reddit built with Apollo, Graph QL, Node, React and Redis.',
     stack: ['React', 'Node', 'GraphQL'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/lireddit-web',
     livePreview: 'https://github.com',
   },
   {
