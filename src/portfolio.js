@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://cpalmer-ios.github.io',
-  title: 'Built in React JS.', 
+  title: 'Built in React JS', 
 }
 
 const about = {
