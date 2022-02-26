@@ -70,6 +70,7 @@ const skills = [
   'WordPress',
   'pHp',
   'AWS',
+  'TerraForm',
   'Docker',
   'Bash',
   'Ruby on Rails',
@@ -82,6 +83,9 @@ const skills = [
   'CI/CD',
   'Jest',
   'Enzyme',
+  'Cypress',
+  'Snyk',
+  'SonarCloud',
 ]
 
 const experience = [
