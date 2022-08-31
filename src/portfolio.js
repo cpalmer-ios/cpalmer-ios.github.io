@@ -63,6 +63,7 @@ const skills = [
   'Apollo',
   'Redis',
   'Mongo DB',
+  'Dynamo DB',
   'SQL',
   'C',
   'C ++',
@@ -70,9 +71,10 @@ const skills = [
   'WordPress',
   'pHp',
   'AWS',
+  'Lambda',
   'TerraForm',
   'Docker',
-  'Bash',
+  'Shell Script',
   'Ruby on Rails',
   'Java',
   'Varnish',
@@ -82,6 +84,7 @@ const skills = [
   'Git',
   'CI/CD',
   'Jest',
+  'PACT',
   'Enzyme',
   'Cypress',
   'Snyk',
@@ -91,6 +94,8 @@ const skills = [
 const experience = [
   // projects can be added and removed
   // if there are no projects, Projects section won't show up
+
+  // TODO: 01.09.2022 - convert all images to base64 encoding so they can work offline.
   {
     name: 'sky',
     img: './img/sky.png',
